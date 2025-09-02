@@ -11,7 +11,7 @@
 void Manage::StuReadFile(std::vector<Student> &stu)
 {
     std::ifstream ifs;
-    ifs.open("2025_student.txt", std::ios::in); // Read file
+    ifs.open("../2025_student.txt", std::ios::in); // Read file
     if (!ifs.is_open())
     {
         std::cout << "文件打开失败" << std::endl;
@@ -58,7 +58,7 @@ void Manage::StuReadFile(std::vector<Student> &stu)
 void Manage::TeaReadFile(std::vector<Teacher> &teac)
 {
     std::ifstream ifs;
-    ifs.open("2025_teacher.txt", std::ios::in); // Read file
+    ifs.open("../2025_teacher.txt", std::ios::in); // Read file
     if (!ifs.is_open())
     {
         std::cout << "文件打开失败" << std::endl;
