@@ -1,0 +1,7 @@
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/main.dir
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/edit_cache.dir
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/rebuild_cache.dir
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/list_install_components.dir
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/install.dir
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/install/local.dir
+/home/Tom/Cmake/Student_Match_Tutor/build/CMakeFiles/install/strip.dir
