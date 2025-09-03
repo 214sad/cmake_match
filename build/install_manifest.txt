@@ -1,0 +1,4 @@
+/home/Tom/Cmake/test_Cmake/INSTALL/bin/test
+/home/Tom/Cmake/test_Cmake/INSTALL/lib/libmatch_shared.so
+/home/Tom/Cmake/test_Cmake/INSTALL/bin/2025_student.txt
+/home/Tom/Cmake/test_Cmake/INSTALL/bin/2025_teacher.txt
